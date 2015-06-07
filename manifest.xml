@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>AU BBB</name>
+	<author>Jon Dron</author>
+	<version>1.8.2</version>
+	<blurb>Bigbluebutton for groups</blurb>
+	<description>Big blue button integration for Elgg groups</description>
+	<website>https://landing.athabascau.ca</website>
+	<copyright>(C) Athabasca University </copyright>
+	<license>GNU Public License version 2</license>
+	<category>3rd_party_integration</category>
+	<requires>
+		<type>elgg_release</type>
+		<version>1.8</version>
+	</requires>
+</plugin_manifest>
